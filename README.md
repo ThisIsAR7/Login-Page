@@ -8,8 +8,6 @@ This is a sleek and modern login page designed and developed by [AR7](ar123456.n
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
-- [Credits](#credits)
 
 ## Demo
 
