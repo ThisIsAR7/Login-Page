@@ -11,7 +11,7 @@ This is a sleek and modern login page designed and developed by [AR7](https://ar
 
 ## Demo
 
-You can see the live demo of the login page [here](https://github.com/ThisIsAR7/Login-Page.git).
+To see a live demo of the hoverboard, open the `index.html` file in a web browser. You will see a grid of squares that change color and glow when you hover over them.
 
 ## Features
 
