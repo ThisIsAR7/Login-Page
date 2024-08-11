@@ -11,7 +11,7 @@ This is a sleek and modern login page designed and developed by [AR7](https://ar
 
 ## Demo
 
-You can see the live demo of the login page [here](https://loginpage-ar7.netlify.app/).
+You can see the live demo of the login page [here](https://github.com/ThisIsAR7/Login-Page.git).
 
 ## Features
 
