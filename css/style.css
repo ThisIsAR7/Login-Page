@@ -12,7 +12,7 @@ body {
     justify-content:center;
     align-items:center;
     min-height: 100vh;
-    background: url('img/bg.avif') no-repeat;
+    background: url('img/bg.webp') no-repeat;
     background-attachment: fixed;
     background-size: cover;
     background-position: center center;
