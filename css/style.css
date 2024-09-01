@@ -15,7 +15,7 @@ body {
     background: url('img/bg.webp') no-repeat;
     background-attachment: fixed;
     background-size: cover;
-
+    background-position: center center;
 }
 
 .wrapper {
